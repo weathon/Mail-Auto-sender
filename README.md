@@ -1,9 +1,10 @@
 # Mail-Auto-sender
-A manager that can send your email automatically.
-
-
-# Open Source Licenses
-## Thanks to the following open source library:
+A manager that can send your email automatically. 
+<br/>
+<br/><br/>
+   
+## Open Source Licenses
+**Thanks to the following open source library:**
 
 ### Python  
 https://github.com/python/cpython   
