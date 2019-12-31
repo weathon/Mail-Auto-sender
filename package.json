@@ -1,0 +1,22 @@
+{
+  "name": "mail-sender",
+  "version": "0.9.0",
+  "description": "A manager that can send your email automatically.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weathon/Mail-Sender.git"
+  },
+  "keywords": [
+    "mail"
+  ],
+  "author": "weathon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weathon/Mail-Sender/issues"
+  },
+  "homepage": "https://github.com/weathon/Mail-Sender#readme"
+}
