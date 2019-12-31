@@ -1,4 +1,4 @@
-# Mail-Auto-sender
+# Mail-Auto-Sender
 A manager that can send your email automatically. 
 <br/>
 <br/><br/>
